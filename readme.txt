@@ -29,7 +29,7 @@ Ensure that when your posts are shared on FaceBook that the proper title, thumbn
 
 == License ==
 
-The WP-Orphanage plugin was developed by Eric Marden, and is provided with out warranty under the GPLv2 License. More info and other plugins at: http://xentek.net
+The FB Meta Tags plugin was developed by Eric Marden, and is provided with out warranty under the GPLv2 License. More info and other plugins at: http://xentek.net
 
 Copyright 2010  Andrew Terris and Eric Marden
 
